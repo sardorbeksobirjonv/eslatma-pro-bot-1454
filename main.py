@@ -17,7 +17,7 @@ from zoneinfo import ZoneInfo
 import asyncio
 
 # ================= TOKEN =================
-TOKEN = "8567582679:AAGeahuUdy-Y6qSykUEWoTepn2UtZVle17g"
+TOKEN = "8528647202:AAHQOrW3p8M0uLTTTDF_M2LKtSqVAs92Mvw"
 
 # ================= STATES =================
 (
